@@ -1,0 +1,21 @@
+{
+  "name": "ncs-test-last",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kang-0318/ncs-test-last.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kang-0318/ncs-test-last/issues"
+  },
+  "homepage": "https://github.com/Kang-0318/ncs-test-last#readme"
+}
